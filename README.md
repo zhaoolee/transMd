@@ -2,6 +2,9 @@
 
 一个自用可以实现内容出海的，使用OpenAI ChatGPT批量将中文Markdown翻译为英文的工具。
 
+
+![](./README/desc.jpg)
+
 翻译完成的效果展示: https://medium.com/@zhaoolee
 
 ## 使用方法
